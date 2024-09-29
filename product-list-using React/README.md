@@ -5,10 +5,6 @@ A simple React application that displays a filterable list of products. Users ca
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Display a list of products with names, categories, and prices.
@@ -19,13 +15,3 @@ A simple React application that displays a filterable list of products. Users ca
 - React
 - JavaScript
 - HTML & CSS
-- Create React App
-
-## Installation
-
-To get started with the project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/product-list-app.git
-   cd product-list-app
